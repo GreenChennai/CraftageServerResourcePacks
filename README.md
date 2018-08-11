@@ -2,7 +2,7 @@
 ### 为服务器的资源包"开源"
 
 * 任何人都可以编辑他
-* 请在目录\assets\minecraft\mcpatcher\cit下
+* 请在目录ServerResourcePacks\assets\minecraft\mcpatcher\cit下
 * 创建一个属于你个人的文件夹然后进行添加材质
 * 我创建的是item你的可以是其他
 * 之后需要我审核
