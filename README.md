@@ -8,5 +8,6 @@
 * 之后需要我审核
 * 去这里可以看教程
 https://www.thelunai.ml/2018/08/ServerResourcePacks/
-
+ 
+### 下载之后请解压出来并删除README.md再重新打包成zip
 ## 记住文件夹和文件名字不要有任何的大写   文本内容不限
