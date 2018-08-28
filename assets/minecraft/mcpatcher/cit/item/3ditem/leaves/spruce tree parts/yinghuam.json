@@ -1,8 +1,8 @@
 {
 	"__comment": "Designed by Sixfootpink with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "./leaves000",
-		"texture": "./leaves_000"
+		"particle": "./yinghuam",
+		"texture": "./yinghuam"
 	},
 	"elements": [
 		{
