@@ -21,7 +21,7 @@
 	"display": {
 		"gui": {
 			"scale": [1.15, 0.001, 1.15],
-			"rotation": [90, 0, 0]
+			"rotation": [-90, 0, 0]
 		}
 	}
 }
