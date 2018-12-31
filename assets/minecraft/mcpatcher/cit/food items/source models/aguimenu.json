@@ -1,0 +1,29 @@
+{
+	"__comment": "will be replaced by 523041413@qq.com",
+	"textures": {
+		"particle": "blocks/e_particle",
+		"texture": "blocks/e_texture",
+		"agui": "blocks/aguimenu"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box1",
+			"from": [ 0, 8, 0 ],
+			"to": [ 16, 9, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 16, 16, 0 ], "texture": "#agui" },
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#agui" },
+				"north": { "uv": [ 16, 0, 0, 1 ], "texture": "#agui" },
+				"south": { "uv": [ 0, 15, 16, 16 ], "texture": "#agui" },
+				"west": { "uv": [ 0, 0, 1, 16 ], "texture": "#agui", "rotation": 270 },
+				"east": { "uv": [ 16, 16, 15, 0 ], "texture": "#agui", "rotation": 270 }
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation":  [ 90, 0, 0 ],
+			"scale":  [ 1.2, 1.2, 1.2 ]
+		}
+	}
+}

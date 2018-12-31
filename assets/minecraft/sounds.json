@@ -1,0 +1,72 @@
+{
+ "Sound_Gun_1": {
+    "category": "master",
+    "sounds": [
+      "iep/gun_skull"
+    ]
+  },
+  
+  "Sound_Gun_2": {
+    "category": "master",
+    "sounds": [
+      "iep/gun_fireball"
+    ]
+  },
+
+   "Sound_Gun_3": {
+    "category": "master",
+    "sounds": [
+      "iep/gun_snowball"
+    ]
+  },
+
+   "Sound_Gun_No": {
+    "category": "master",
+    "sounds": [
+      "iep/gun_no_bullet"
+    ]
+  },
+  
+  "Sound_Elect_Bow": {
+    "category": "master",
+    "sounds": [
+      "iep/bow_niying"
+    ]
+  },
+  
+  "Sound_Elect_Lian": {
+    "category": "master",
+    "sounds": [
+      "iep/sowrd_lian"
+    ]
+  },
+  
+  "Sound_Elect_Qiang": {
+    "category": "master",
+    "sounds": [
+      "iep/sword_qiang"
+    ]
+  },
+  
+  "Sound_Elect_Qu_Open": {
+    "category": "master",
+    "sounds": [
+      "iep/sword_qu_open"
+    ]
+  },
+  
+  "Sound_Elect_Qu_Off": {
+    "category": "master",
+    "sounds": [
+      "iep/sword_qu_off"
+    ]
+  },
+
+   "Sound_Elect": {
+    "category": "master",
+    "sounds": [
+      "iep/sword_jiguang"
+    ]
+  }
+
+}
