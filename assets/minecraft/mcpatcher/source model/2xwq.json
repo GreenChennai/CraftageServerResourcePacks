@@ -1,5 +1,6 @@
 {
-    "parent": "item/generated",
+    "credit": "By Green_Chennai",
+	"parent": "item/generated",
 	"textures": {
         "layer0": "items/iron_sword"
     },
@@ -36,9 +37,11 @@
         },
         "gui": {
             "rotation": [ 0, 0, 0 ],
-            "translation": [ 0, 0, 0 ],
-            "scale": [ 2.0, 2.0, 1.0 ]
-        }
+            "translation": [0, 0.5, 0],
+			"scale": [0.95, 0.95, 0.95]
+        },
+		"fixed": {
+			"scale": [2, 2, 1]
+		}
     }
-
 }
