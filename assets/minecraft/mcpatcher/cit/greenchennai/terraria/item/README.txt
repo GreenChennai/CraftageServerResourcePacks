@@ -1,0 +1,5 @@
+Lore
+traitem01-traitem044
+其他事项:
+其中traitem40和traitem41的物品是铁剑
+其余的都是糖
