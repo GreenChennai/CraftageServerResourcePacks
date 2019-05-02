@@ -1,8 +1,8 @@
 {
 	"credit": "By Green_Chennai",
 	"textures": {
-		"0": "blocks/magic/14",
-		"particle": "blocks/magic/14"
+		"0": "./magic/14",
+		"particle": "./magic/14"
 	},
 	"elements": [
 		{
