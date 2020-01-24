@@ -1,0 +1,11 @@
+{
+	"parent": "item/handheld",
+    "textures": {
+		"layer0": "items/golden_sword"
+},
+	"overrides": [
+		{ "predicate": {"custom_model_data":1}, "model": "item/tb1"},
+		{ "predicate": {"custom_model_data":2}, "model": "item/tb2"},
+		{ "predicate": {"custom_model_data":3}, "model": "item/tb3"}
+	]
+}

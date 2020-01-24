@@ -1,8 +1,8 @@
 {
-	"credit": "By Green_Chennai",
+	"credit": "By.Green_Chennai",
 	"textures": {
-		"0": "./magic/20",
-		"particle": "./magic/20"
+		"0": "magic/20",
+		"particle": "magic/20"
 	},
 	"elements": [
 		{
@@ -43,7 +43,7 @@
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"head": {
-			"translation": [-12, -11.5, 0],
+			"translation": [0.25, -11.5, 0],
 			"scale": [4, 4, 4]
 		},
 		"fixed": {

@@ -1,0 +1,7 @@
+仅限1.14+
+/give @p minecraft:golden_sword{CustomModelData:1}
+CustomModelData:1-3可以调用 无需高清修复
+
+高清修复调用
+添加
+tb1-3即可
