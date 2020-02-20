@@ -1,0 +1,8 @@
+{
+    "credit": "By Green_Chennai",
+	"parent": "item/original_crystal",
+	"textures": {
+        "2": "./crystal_red",
+		"particle": "./crystal_red"
+    }
+}

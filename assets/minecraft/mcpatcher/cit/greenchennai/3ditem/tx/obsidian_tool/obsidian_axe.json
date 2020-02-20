@@ -1,0 +1,8 @@
+{
+    "credit": "By Green_Chennai",
+	"parent": "item/original_axe",
+	"textures": {
+        "0": "./obsidian_axe",
+		"particle": "./obsidian_axe"
+    }
+}

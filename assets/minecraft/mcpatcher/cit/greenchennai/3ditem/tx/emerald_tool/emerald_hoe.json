@@ -1,0 +1,8 @@
+{
+    "credit": "By Green_Chennai",
+	"parent": "item/original_hoe",
+	"textures": {
+        "0": "./emerald_hoe",
+		"particle": "./emerald_hoe"
+    }
+}

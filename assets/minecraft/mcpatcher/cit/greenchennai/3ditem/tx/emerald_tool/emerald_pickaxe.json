@@ -1,0 +1,8 @@
+{
+    "credit": "By Green_Chennai",
+	"parent": "item/original_pickaxe",
+	"textures": {
+        "0": "./emerald_pickaxe",
+		"particle": "./emerald_pickaxe"
+    }
+}

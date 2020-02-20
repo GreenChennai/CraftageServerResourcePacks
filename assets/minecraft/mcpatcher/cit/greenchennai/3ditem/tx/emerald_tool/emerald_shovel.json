@@ -1,0 +1,8 @@
+{
+    "credit": "By Green_Chennai",
+	"parent": "item/original_shovel",
+	"textures": {
+        "0": "./emerald_shovel",
+		"particle": "./emerald_shovel"
+    }
+}

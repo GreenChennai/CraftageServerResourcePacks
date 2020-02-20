@@ -1,0 +1,8 @@
+{
+    "credit": "By Green_Chennai",
+	"parent": "item/original_sword",
+	"textures": {
+        "0": "./redstone_sword",
+		"particle": "./redstone_sword"
+    }
+}

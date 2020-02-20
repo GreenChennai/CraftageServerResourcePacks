@@ -1,0 +1,8 @@
+{
+    "credit": "By Green_Chennai",
+	"parent": "item/original_sword",
+	"textures": {
+        "0": "./emerald_sword",
+		"particle": "./emerald_sword"
+    }
+}
